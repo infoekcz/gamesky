@@ -9,6 +9,6 @@ This is a collection of addictive games that you can play on different devices d
 A collection of old style addictive games writen in JavaScript, HTML and CSS.
 
 ## Zahrajte si přímo v prohlížeči:/Play directly in the browser:
-https://infoek.cz/wp-content/hry/gamesky2/
+> https://infoek.cz/wp-content/hry/games-gh-pages
 
 
